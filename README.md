@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thalesd
-- :video_game: I’m interested in Game and Web Development
-- 🌱 I’m currently learning Game Design and Development
+- :video_game: I’m interested in Games and Web Development
 - 📫 You can reach me at tdonizetti@tdonsoft.com for business/work
 
 <!---
