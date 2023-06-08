@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thalesd
 - :video_game: I’m interested in Games and Web Development
-- 📫 You can reach me at tdonizetti@tdonsoft.com for business/work
+- 📫 You can reach me at tdonizetti@tdonsoft.com for freelance/jobs
 
 <!---
 thalesd/thalesd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
