@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thalesd
-- :video_game: I’m interested in Game Development and Web Development
+- :video_game: I’m interested in Game and Backend Development
 - 📫 You can reach me at tdonizetti@tdonsoft.com for freelance or job offers
 
 <!---
